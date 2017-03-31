@@ -1,0 +1,10 @@
+c:\users\zyzz\documents\visual studio 2015\Projects\AzNote\bin\Debug\AzNote.exe.config
+c:\users\zyzz\documents\visual studio 2015\Projects\AzNote\bin\Debug\AzNote.exe
+c:\users\zyzz\documents\visual studio 2015\Projects\AzNote\bin\Debug\AzNote.pdb
+c:\users\zyzz\documents\visual studio 2015\Projects\AzNote\bin\Debug\Bunifu_UI_v1.4.dll
+c:\users\zyzz\documents\visual studio 2015\Projects\AzNote\obj\Debug\AzNote.csprojResolveAssemblyReference.cache
+c:\users\zyzz\documents\visual studio 2015\Projects\AzNote\obj\Debug\AzNote.Form1.resources
+c:\users\zyzz\documents\visual studio 2015\Projects\AzNote\obj\Debug\AzNote.Properties.Resources.resources
+c:\users\zyzz\documents\visual studio 2015\Projects\AzNote\obj\Debug\AzNote.csproj.GenerateResource.Cache
+c:\users\zyzz\documents\visual studio 2015\Projects\AzNote\obj\Debug\AzNote.exe
+c:\users\zyzz\documents\visual studio 2015\Projects\AzNote\obj\Debug\AzNote.pdb
